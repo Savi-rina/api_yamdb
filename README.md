@@ -33,7 +33,7 @@ Check it out!
 #### Clone repository:
 
 ```sh
- git clone https://github.com/kozarezov/api_yamdb.git
+ git clone https://github.com/Savi-rina/api_yamdb.git
  ```
 
 #### Create and activate Virtual Environment:
